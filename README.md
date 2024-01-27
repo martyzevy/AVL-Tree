@@ -1,0 +1,1 @@
+Type "Make" to compile a problem 3 executable called "scheduling." Delete this executable by typing "make clean."
